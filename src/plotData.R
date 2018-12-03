@@ -2,7 +2,7 @@
   #hist(mtcars$disp)
 #dev.off()
 
-
+#in plotData.R make a 2D density map of the points
 ggplot(gmpts, aes(longitude, latitude, group = status))+
   scale_fill_gradient(low = "grey70", high = "grey30", guide = "none") +
   xlab("Longitude") +

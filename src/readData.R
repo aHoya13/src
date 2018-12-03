@@ -1,3 +1,4 @@
+#in readData.R read in the data and save it
 #Opened readData.R
 library(dplyr)
 library(readr)

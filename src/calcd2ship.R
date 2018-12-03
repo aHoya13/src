@@ -1,3 +1,4 @@
+#in calcd2ship.R calculate the distance of the estimated points to the RV Kahuna
 library(dplyr)
 library(readr)
 library(fields)
